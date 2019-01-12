@@ -1,2 +1,2 @@
 # Bad-Fur-Day-Remake
-Bad Fur Day Remake
+A remake of Conker's Bad Fur Day's Multiplayer.
