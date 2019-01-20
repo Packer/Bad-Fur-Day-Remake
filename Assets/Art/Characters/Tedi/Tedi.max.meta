@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: f5cf2f0fbbfcfca4ab37e84dfe237023
+timeCreated: 1491403549
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 HeadNub
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger01
+    100016: Bip01 L Finger02
+    100018: Bip01 L Finger0Nub
+    100020: Bip01 L Finger1
+    100022: Bip01 L Finger11
+    100024: Bip01 L Finger12
+    100026: Bip01 L Finger1Nub
+    100028: Bip01 L Finger2
+    100030: Bip01 L Finger21
+    100032: Bip01 L Finger22
+    100034: Bip01 L Finger2Nub
+    100036: Bip01 L Finger3
+    100038: Bip01 L Finger31
+    100040: Bip01 L Finger32
+    100042: Bip01 L Finger3Nub
+    100044: Bip01 L Foot
+    100046: Bip01 L Forearm
+    100048: Bip01 L Hand
+    100050: Bip01 L Thigh
+    100052: Bip01 L Toe0
+    100054: Bip01 L Toe0Nub
+    100056: Bip01 L UpperArm
+    100058: Bip01 Neck
+    100060: Bip01 Pelvis
+    100062: Bip01 R Calf
+    100064: Bip01 R Clavicle
+    100066: Bip01 R Finger0
+    100068: Bip01 R Finger01
+    100070: Bip01 R Finger02
+    100072: Bip01 R Finger0Nub
+    100074: Bip01 R Finger1
+    100076: Bip01 R Finger11
+    100078: Bip01 R Finger12
+    100080: Bip01 R Finger1Nub
+    100082: Bip01 R Finger2
+    100084: Bip01 R Finger21
+    100086: Bip01 R Finger22
+    100088: Bip01 R Finger2Nub
+    100090: Bip01 R Finger3
+    100092: Bip01 R Finger31
+    100094: Bip01 R Finger32
+    100096: Bip01 R Finger3Nub
+    100098: Bip01 R Foot
+    100100: Bip01 R Forearm
+    100102: Bip01 R Hand
+    100104: Bip01 R Thigh
+    100106: Bip01 R Toe0
+    100108: Bip01 R Toe0Nub
+    100110: Bip01 R UpperArm
+    100112: Bip01 Spine
+    100114: Bip01 Spine1
+    100116: Cam
+    100118: Eye
+    100120: Head
+    100122: Mount0
+    100124: Mount1
+    100126: Mount2
+    100128: //RootNode
+    100130: Tedi
+    100132: Unlink
+    100134: cam
+    100136: CATRigHub003
+    100138: CATRigHub003Neck
+    100140: CATRigHub003NeckBone001
+    100142: CATRigHub003NeckBone001Bone001
+    100144: CATRigHub003NeckBone001Bone002
+    100146: CATRigLArm1
+    100148: CATRigLArm2
+    100150: CATRigLArmCollarbone
+    100152: CATRigLArmPalm
+    100154: CATRigLLeg1
+    100156: CATRigLLeg2
+    100158: CATRigLLegAnkle
+    100160: CATRigLLegPlatform
+    100162: CATRigPalmBone001
+    100164: CATRigPalmBone001 1
+    100166: CATRigPalmBone001Bone001
+    100168: CATRigPalmBone001Bone001 1
+    100170: CATRigPalmBone001Bone002
+    100172: CATRigPalmBone001Bone002 1
+    100174: CATRigPalmBone002
+    100176: CATRigPalmBone002 1
+    100178: CATRigPalmBone002Bone001
+    100180: CATRigPalmBone002Bone001 1
+    100182: CATRigPalmBone002Bone001Bone001
+    100184: CATRigPalmBone002Bone001Bone001 1
+    100186: CATRigPelvis
+    100188: CATRigRArm1
+    100190: CATRigRArm2
+    100192: CATRigRArmCollarbone
+    100194: CATRigRArmPalm
+    100196: CATRigRLeg1
+    100198: CATRigRLeg2
+    100200: CATRigRLegAnkle
+    100202: CATRigRLegPlatform
+    100204: CATRigSpine1
+    100206: CATRigSpine2
+    100208: CATRigSpine3
+    100210: CATRigSpine4
+    100212: CATRigSpine5
+    100214: eye
+    100216: mount0
+    100218: mount1
+    100220: mount2
+    100222: mount3
+    100224: TediMouth
+    100226: TediRig
+    100228: TediMesh
+    100230: BackMount
+    100232: HandLeft
+    100234: HandRight
+    100236: HeadMount
+    100238: FirstPerson
+    100240: Rig
+    100242: RigHub003
+    100244: RigHub003Neck
+    100246: RigHub003NeckBone001
+    100248: RigLArm1
+    100250: RigLArm2
+    100252: RigLArmCollarbone
+    100254: RigLArmPalm
+    100256: RigLEar
+    100258: RigLLeg1
+    100260: RigLLeg2
+    100262: RigLLegAnkle
+    100264: RigLLegPlatform
+    100266: RigPalmBone001
+    100268: RigPalmBone001 1
+    100270: RigPalmBone001Bone001
+    100272: RigPalmBone001Bone001 1
+    100274: RigPalmBone001Bone002
+    100276: RigPalmBone001Bone002 1
+    100278: RigPalmBone002
+    100280: RigPalmBone002 1
+    100282: RigPalmBone002Bone001
+    100284: RigPalmBone002Bone001 1
+    100286: RigPalmBone002Bone001Bone001
+    100288: RigPalmBone002Bone001Bone001 1
+    100290: RigPelvis
+    100292: RigRArm1
+    100294: RigRArm2
+    100296: RigRArmCollarbone
+    100298: RigRArmPalm
+    100300: RigREar
+    100302: RigRLeg1
+    100304: RigRLeg2
+    100306: RigRLegAnkle
+    100308: RigRLegPlatform
+    100310: RigSpine1
+    100312: RigSpine2
+    100314: RigSpine3
+    100316: RigSpine4
+    100318: RigSpine5
+    100320: TediHub003
+    100322: TediHub003Neck
+    100324: TediHub003NeckBone001
+    100326: TediLArm1
+    100328: TediLArm2
+    100330: TediLArmCollarbone
+    100332: TediLArmPalm
+    100334: TediLEar
+    100336: TediLLeg1
+    100338: TediLLeg2
+    100340: TediLLegAnkle
+    100342: TediLLegPlatform
+    100344: TediPalmBone001
+    100346: TediPalmBone001 1
+    100348: TediPalmBone001Bone001
+    100350: TediPalmBone001Bone001 1
+    100352: TediPalmBone001Bone002
+    100354: TediPalmBone001Bone002 1
+    100356: TediPalmBone002
+    100358: TediPalmBone002 1
+    100360: TediPalmBone002Bone001
+    100362: TediPalmBone002Bone001 1
+    100364: TediPalmBone002Bone001Bone001
+    100366: TediPalmBone002Bone001Bone001 1
+    100368: TediPelvis
+    100370: TediRArm1
+    100372: TediRArm2
+    100374: TediRArmCollarbone
+    100376: TediRArmPalm
+    100378: TediREar
+    100380: TediRLeg1
+    100382: TediRLeg2
+    100384: TediRLegAnkle
+    100386: TediRLegPlatform
+    100388: TediSpine1
+    100390: TediSpine2
+    100392: TediSpine3
+    100394: TediSpine4
+    100396: TediSpine5
+    100398: RigHub001
+    100400: RigHead
+    100402: RigLArmFingers1
+    100404: RigLArmFingers2
+    100406: RigLArmFingers3
+    100408: RigLArmIndex1
+    100410: RigLArmIndex2
+    100412: RigLArmIndex3
+    100414: RigLArmLThumb1
+    100416: RigLArmLThumb2
+    100418: RigLArmLThumb3
+    100420: RigMouth
+    100422: RigRArmFingers1
+    100424: RigRArmFingers2
+    100426: RigRArmFingers3
+    100428: RigRArmIndex1
+    100430: RigRArmIndex2
+    100432: RigRArmIndex3
+    100434: RigRArmLThumb1
+    100436: RigRArmLThumb2
+    100438: RigRArmLThumb3
+    100440: RigSpine
+    100442: Hand_Left
+    100444: Hand_Right
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 HeadNub
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger01
+    400016: Bip01 L Finger02
+    400018: Bip01 L Finger0Nub
+    400020: Bip01 L Finger1
+    400022: Bip01 L Finger11
+    400024: Bip01 L Finger12
+    400026: Bip01 L Finger1Nub
+    400028: Bip01 L Finger2
+    400030: Bip01 L Finger21
+    400032: Bip01 L Finger22
+    400034: Bip01 L Finger2Nub
+    400036: Bip01 L Finger3
+    400038: Bip01 L Finger31
+    400040: Bip01 L Finger32
+    400042: Bip01 L Finger3Nub
+    400044: Bip01 L Foot
+    400046: Bip01 L Forearm
+    400048: Bip01 L Hand
+    400050: Bip01 L Thigh
+    400052: Bip01 L Toe0
+    400054: Bip01 L Toe0Nub
+    400056: Bip01 L UpperArm
+    400058: Bip01 Neck
+    400060: Bip01 Pelvis
+    400062: Bip01 R Calf
+    400064: Bip01 R Clavicle
+    400066: Bip01 R Finger0
+    400068: Bip01 R Finger01
+    400070: Bip01 R Finger02
+    400072: Bip01 R Finger0Nub
+    400074: Bip01 R Finger1
+    400076: Bip01 R Finger11
+    400078: Bip01 R Finger12
+    400080: Bip01 R Finger1Nub
+    400082: Bip01 R Finger2
+    400084: Bip01 R Finger21
+    400086: Bip01 R Finger22
+    400088: Bip01 R Finger2Nub
+    400090: Bip01 R Finger3
+    400092: Bip01 R Finger31
+    400094: Bip01 R Finger32
+    400096: Bip01 R Finger3Nub
+    400098: Bip01 R Foot
+    400100: Bip01 R Forearm
+    400102: Bip01 R Hand
+    400104: Bip01 R Thigh
+    400106: Bip01 R Toe0
+    400108: Bip01 R Toe0Nub
+    400110: Bip01 R UpperArm
+    400112: Bip01 Spine
+    400114: Bip01 Spine1
+    400116: Cam
+    400118: Eye
+    400120: Head
+    400122: Mount0
+    400124: Mount1
+    400126: Mount2
+    400128: //RootNode
+    400130: Tedi
+    400132: Unlink
+    400134: cam
+    400136: CATRigHub003
+    400138: CATRigHub003Neck
+    400140: CATRigHub003NeckBone001
+    400142: CATRigHub003NeckBone001Bone001
+    400144: CATRigHub003NeckBone001Bone002
+    400146: CATRigLArm1
+    400148: CATRigLArm2
+    400150: CATRigLArmCollarbone
+    400152: CATRigLArmPalm
+    400154: CATRigLLeg1
+    400156: CATRigLLeg2
+    400158: CATRigLLegAnkle
+    400160: CATRigLLegPlatform
+    400162: CATRigPalmBone001
+    400164: CATRigPalmBone001 1
+    400166: CATRigPalmBone001Bone001
+    400168: CATRigPalmBone001Bone001 1
+    400170: CATRigPalmBone001Bone002
+    400172: CATRigPalmBone001Bone002 1
+    400174: CATRigPalmBone002
+    400176: CATRigPalmBone002 1
+    400178: CATRigPalmBone002Bone001
+    400180: CATRigPalmBone002Bone001 1
+    400182: CATRigPalmBone002Bone001Bone001
+    400184: CATRigPalmBone002Bone001Bone001 1
+    400186: CATRigPelvis
+    400188: CATRigRArm1
+    400190: CATRigRArm2
+    400192: CATRigRArmCollarbone
+    400194: CATRigRArmPalm
+    400196: CATRigRLeg1
+    400198: CATRigRLeg2
+    400200: CATRigRLegAnkle
+    400202: CATRigRLegPlatform
+    400204: CATRigSpine1
+    400206: CATRigSpine2
+    400208: CATRigSpine3
+    400210: CATRigSpine4
+    400212: CATRigSpine5
+    400214: eye
+    400216: mount0
+    400218: mount1
+    400220: mount2
+    400222: mount3
+    400224: TediMouth
+    400226: TediRig
+    400228: TediMesh
+    400230: BackMount
+    400232: HandLeft
+    400234: HandRight
+    400236: HeadMount
+    400238: FirstPerson
+    400240: Rig
+    400242: RigHub003
+    400244: RigHub003Neck
+    400246: RigHub003NeckBone001
+    400248: RigLArm1
+    400250: RigLArm2
+    400252: RigLArmCollarbone
+    400254: RigLArmPalm
+    400256: RigLEar
+    400258: RigLLeg1
+    400260: RigLLeg2
+    400262: RigLLegAnkle
+    400264: RigLLegPlatform
+    400266: RigPalmBone001
+    400268: RigPalmBone001 1
+    400270: RigPalmBone001Bone001
+    400272: RigPalmBone001Bone001 1
+    400274: RigPalmBone001Bone002
+    400276: RigPalmBone001Bone002 1
+    400278: RigPalmBone002
+    400280: RigPalmBone002 1
+    400282: RigPalmBone002Bone001
+    400284: RigPalmBone002Bone001 1
+    400286: RigPalmBone002Bone001Bone001
+    400288: RigPalmBone002Bone001Bone001 1
+    400290: RigPelvis
+    400292: RigRArm1
+    400294: RigRArm2
+    400296: RigRArmCollarbone
+    400298: RigRArmPalm
+    400300: RigREar
+    400302: RigRLeg1
+    400304: RigRLeg2
+    400306: RigRLegAnkle
+    400308: RigRLegPlatform
+    400310: RigSpine1
+    400312: RigSpine2
+    400314: RigSpine3
+    400316: RigSpine4
+    400318: RigSpine5
+    400320: TediHub003
+    400322: TediHub003Neck
+    400324: TediHub003NeckBone001
+    400326: TediLArm1
+    400328: TediLArm2
+    400330: TediLArmCollarbone
+    400332: TediLArmPalm
+    400334: TediLEar
+    400336: TediLLeg1
+    400338: TediLLeg2
+    400340: TediLLegAnkle
+    400342: TediLLegPlatform
+    400344: TediPalmBone001
+    400346: TediPalmBone001 1
+    400348: TediPalmBone001Bone001
+    400350: TediPalmBone001Bone001 1
+    400352: TediPalmBone001Bone002
+    400354: TediPalmBone001Bone002 1
+    400356: TediPalmBone002
+    400358: TediPalmBone002 1
+    400360: TediPalmBone002Bone001
+    400362: TediPalmBone002Bone001 1
+    400364: TediPalmBone002Bone001Bone001
+    400366: TediPalmBone002Bone001Bone001 1
+    400368: TediPelvis
+    400370: TediRArm1
+    400372: TediRArm2
+    400374: TediRArmCollarbone
+    400376: TediRArmPalm
+    400378: TediREar
+    400380: TediRLeg1
+    400382: TediRLeg2
+    400384: TediRLegAnkle
+    400386: TediRLegPlatform
+    400388: TediSpine1
+    400390: TediSpine2
+    400392: TediSpine3
+    400394: TediSpine4
+    400396: TediSpine5
+    400398: RigHub001
+    400400: RigHead
+    400402: RigLArmFingers1
+    400404: RigLArmFingers2
+    400406: RigLArmFingers3
+    400408: RigLArmIndex1
+    400410: RigLArmIndex2
+    400412: RigLArmIndex3
+    400414: RigLArmLThumb1
+    400416: RigLArmLThumb2
+    400418: RigLArmLThumb3
+    400420: RigMouth
+    400422: RigRArmFingers1
+    400424: RigRArmFingers2
+    400426: RigRArmFingers3
+    400428: RigRArmIndex1
+    400430: RigRArmIndex2
+    400432: RigRArmIndex3
+    400434: RigRArmLThumb1
+    400436: RigRArmLThumb2
+    400438: RigRArmLThumb3
+    400440: RigSpine
+    400442: Hand_Left
+    400444: Hand_Right
+    2300000: //RootNode
+    2300002: TediMesh
+    3300000: //RootNode
+    3300002: TediMesh
+    4300000: Tedi
+    4300002: TediMesh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Tedi
+    13700002: TediMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tedi
+    second: {fileID: 2100000, guid: e78df37991befa941a9028b36d1ceada, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Rig
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: fc7ff37f62cb80e4b9d809af2909c68a,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

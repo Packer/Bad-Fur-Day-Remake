@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 0acc38645248a6c47be188ab5a4bcf67
+timeCreated: 1514470766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FirstPerson
+    100004: Hand_Left
+    100006: Hand_Right
+    100008: HelmetMesh
+    100010: Rig
+    100012: RigHead
+    100014: RigHelmet
+    100016: RigLArm1
+    100018: RigLArm2
+    100020: RigLArmCollarbone
+    100022: RigLArmFingers1
+    100024: RigLArmFingers2
+    100026: RigLArmFingers3
+    100028: RigLArmIndex1
+    100030: RigLArmIndex2
+    100032: RigLArmIndex3
+    100034: RigLArmLThumb1
+    100036: RigLArmLThumb2
+    100038: RigLArmLThumb3
+    100040: RigLArmPalm
+    100042: RigLEar
+    100044: RigLLeg1
+    100046: RigLLeg2
+    100048: RigLLegAnkle
+    100050: RigLLegPlatform
+    100052: RigLStrap
+    100054: RigLStrapBuckle
+    100056: RigMouth
+    100058: RigPelvis
+    100060: RigRArm1
+    100062: RigRArm2
+    100064: RigRArmCollarbone
+    100066: RigRArmFingers1
+    100068: RigRArmFingers2
+    100070: RigRArmFingers3
+    100072: RigRArmIndex1
+    100074: RigRArmIndex2
+    100076: RigRArmIndex3
+    100078: RigRArmLThumb1
+    100080: RigRArmLThumb2
+    100082: RigRArmLThumb3
+    100084: RigRArmPalm
+    100086: RigREar
+    100088: RigRLeg1
+    100090: RigRLeg2
+    100092: RigRLegAnkle
+    100094: RigRLegPlatform
+    100096: RigRStrap
+    100098: RigSpine
+    100100: RigSpine1
+    100102: RigSpine2
+    100104: RigTail1
+    100106: RigTail2
+    100108: RigTail3
+    100110: RigTail4
+    100112: RigTail5
+    100114: SquirrelMesh
+    400000: //RootNode
+    400002: FirstPerson
+    400004: Hand_Left
+    400006: Hand_Right
+    400008: HelmetMesh
+    400010: Rig
+    400012: RigHead
+    400014: RigHelmet
+    400016: RigLArm1
+    400018: RigLArm2
+    400020: RigLArmCollarbone
+    400022: RigLArmFingers1
+    400024: RigLArmFingers2
+    400026: RigLArmFingers3
+    400028: RigLArmIndex1
+    400030: RigLArmIndex2
+    400032: RigLArmIndex3
+    400034: RigLArmLThumb1
+    400036: RigLArmLThumb2
+    400038: RigLArmLThumb3
+    400040: RigLArmPalm
+    400042: RigLEar
+    400044: RigLLeg1
+    400046: RigLLeg2
+    400048: RigLLegAnkle
+    400050: RigLLegPlatform
+    400052: RigLStrap
+    400054: RigLStrapBuckle
+    400056: RigMouth
+    400058: RigPelvis
+    400060: RigRArm1
+    400062: RigRArm2
+    400064: RigRArmCollarbone
+    400066: RigRArmFingers1
+    400068: RigRArmFingers2
+    400070: RigRArmFingers3
+    400072: RigRArmIndex1
+    400074: RigRArmIndex2
+    400076: RigRArmIndex3
+    400078: RigRArmLThumb1
+    400080: RigRArmLThumb2
+    400082: RigRArmLThumb3
+    400084: RigRArmPalm
+    400086: RigREar
+    400088: RigRLeg1
+    400090: RigRLeg2
+    400092: RigRLegAnkle
+    400094: RigRLegPlatform
+    400096: RigRStrap
+    400098: RigSpine
+    400100: RigSpine1
+    400102: RigSpine2
+    400104: RigTail1
+    400106: RigTail2
+    400108: RigTail3
+    400110: RigTail4
+    400112: RigTail5
+    400114: SquirrelMesh
+    2100000: Squirrel
+    4300000: HelmetMesh
+    4300002: SquirrelMesh
+    7400000: Character_Arms_Uzi_Idle
+    9500000: //RootNode
+    13700000: HelmetMesh
+    13700002: SquirrelMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Character_Arms_Uzi_Idle
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: RigPelvis
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: fc7ff37f62cb80e4b9d809af2909c68a,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
